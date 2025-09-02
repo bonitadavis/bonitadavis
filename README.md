@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Bonita Davis
+### Hi there 👋 I'm Bonita Davis
 
 🎓 Junior @ Southern Methodist University  
 📚 B.A. in Computer Science & B.S. in Data Science (minors in Business + Statistical Science)  
@@ -6,7 +6,8 @@
 
 ---
 
-## 🚀 About Me
+### About Me 👩🏻‍💻
+
 - Currently serving as **Conference Chair** for Society of Women Engineers and **Data Analytics Chair** for SMU Program Council  
 - Experience as a **Teaching Assistant** (Computer Organization) and **Resident Assistant**  
 - Interested in **software engineering, AI/ML, fintech, entertainment, and gaming**  
