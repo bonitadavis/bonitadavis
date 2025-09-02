@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Bonita Davis
 
-🎓 Junior @ Southern Methodist University  
+🎓 Senior @ Southern Methodist University  
 📚 B.A. in Computer Science & B.S. in Data Science (minors in Business + Statistical Science)  
 💻 Aspiring Software Engineer | Data Enthusiast | Problem Solver  
 
